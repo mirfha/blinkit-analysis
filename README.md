@@ -85,8 +85,6 @@ The analysis of sales and customer data highlights important trends:
   Products and outlets with higher ratings tend to achieve better sales. Positive feedback encourages repeat purchases, builds trust, and influences new buyers.
 
 
-### 🚀 Conclusion
-
 ### 💼 Conclusion
 
 This Excel-based analysis of Blinkit's grocery sales demonstrates the **power of data visualization in business decision-making**. By converting raw sales and operational data into an interactive dashboard, the project allows users to quickly interpret trends, compare performance, and make sense of large datasets.
